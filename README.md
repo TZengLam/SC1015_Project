@@ -18,10 +18,16 @@ Tham Zeng Lam- Problem formulation, EDA, Data Analysis, Presentation
 
 ## Learnings from this project
 -Web scrapping Techniques
+
 -Cross Validation Techniques
+
 -Random Forest model
+
 -Diverging bar for visualisation
+
+-One Hot encoding
 ## References
-
-
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor
+https://slidesgo.com/theme/driving-center#search-car&position-4&results-18
 

@@ -5,6 +5,7 @@ This is a SC1015 Mini Project which analyses the relationship between car brand 
 
 ## Contributors
 Ong Jun An-
+
 Tham Zeng Lam-
 
 ## Problem Definition

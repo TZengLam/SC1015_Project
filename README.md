@@ -4,9 +4,9 @@
 This is a SC1015 Mini Project which focuses on the relationship between car brand and price. 
 
 ## Contributors
-Ong Jun An- Data cleaning, EDA, Machine Learning, presentation
+Ong Jun An- Data cleaning, EDA, Machine Learning, Presentation
 
-Tham Zeng Lam- Problem formulation, EDA, data analysis, presentation
+Tham Zeng Lam- Problem formulation, EDA, Data Analysis, Presentation
 
 ## Problem Definition
 1) How can we predict the price of a car?

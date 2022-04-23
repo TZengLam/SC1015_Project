@@ -53,10 +53,13 @@ For cars that do not deivate much from the price of a typical car like Honda and
 
 -One Hot encoding
 
+-ANOVA statistical test with categorical variables
+
 ## References
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor
 https://slidesgo.com/theme/driving-center#search-car&position-4&results-18
 https://www.scribbr.com/statistics/multiple-linear-regression/
 https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/ 
+https://www.scribbr.com/statistics/one-way-anova/
 

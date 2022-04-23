@@ -16,6 +16,8 @@ Tham Zeng Lam-
 1) Linear Regression
 2) Random Forest
 
+## Learnings from the project
+
 ## References
 
 

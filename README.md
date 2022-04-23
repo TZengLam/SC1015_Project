@@ -26,6 +26,10 @@ Tham Zeng Lam- Problem formulation, EDA, Data Analysis, Presentation
 -Diverging bar for visualisation
 
 -One Hot encoding
+
+## Conclusion
+
+
 ## References
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor

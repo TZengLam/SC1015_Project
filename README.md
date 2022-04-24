@@ -15,17 +15,17 @@ Tham Zeng Lam- Problem formulation, EDA, Data Analysis, Presentation
 ## Data Set
 Webscraped from: https://www.sgcarmart.com/main/index.php
 ## File Description
-.pptx -Powerpoint slides for presentation
+.pptx - Powerpoint slides for presentation
 
-.ipynb -Cleaning dataset
+CleaningDataSet.ipynb - Cleaning Raw Dataset 
 
-.ipynb -Main notebook 
+Assignment.ipynb - Main Notebook 
 
-Data Description.txt -Column data description
+Data Description.txt - Column Data Description
 
-.csv -Raw dataset
+(Error Free) sgcarmart.csv - Raw dataset
 
-.csv -Cleaned dataset
+Clean sgcarmart dataset as of 24MAR2022.csv - Cleaned dataset
 
 ## Models Used
 1) Linear Regression

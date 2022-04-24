@@ -12,6 +12,8 @@ Tham Zeng Lam- Problem formulation, EDA, Data Analysis, Presentation
 1) How can we predict the price of a car?
 2) How does brand play a part in affecting car prices?
 
+## Data Set
+Webscraped from: https://www.sgcarmart.com/main/index.php
 ## File Description
 .pptx -Powerpoint slides for presentation
 

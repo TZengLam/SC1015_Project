@@ -17,7 +17,7 @@ Webscraped from: [SgCarMart Link](https://www.sgcarmart.com/main/index.php)
 
 Tool used: [Web Scraper](https://webscraper.io/)
 ## File Description
-.pptx - Powerpoint slides for presentation
+SC1015_Presentation.pptx - Powerpoint slides for presentation [Go to File](../main/SC1015_Presentation.pptx)
 
 CleaningDataSet.ipynb - Cleaning Raw Dataset [Go to File](../main/Cleaning%20Data/CleaningDataSet.ipynb)
 

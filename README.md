@@ -60,23 +60,17 @@ For cars that do not deivate much from the price of a typical car like Honda and
 -ANOVA statistical test with categorical variables
 
 ## References
--Web Scrapping Tool
-https://webscraper.io/
+-Web Scrapping Tool [Link](https://webscraper.io/)
 
--Linear Regression Module
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+-Linear Regression Module [Link](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 
--Random Forest Regression Module
-https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor
+-Random Forest Regression Module [Link](https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor)
 
--Information on Linear Regression
-https://www.scribbr.com/statistics/multiple-linear-regression/
+-Information on Linear Regression [Link](https://www.scribbr.com/statistics/multiple-linear-regression/)
 
--Information on Random Forest Regression
-https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/ 
+-Information on Random Forest Regression [Link](https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/)
 
--Information on One-Way ANOVA Test
-https://www.scribbr.com/statistics/one-way-anova/
+-Information on One-Way ANOVA Test [Link](https://www.scribbr.com/statistics/one-way-anova/)
 
--Slide Template Used
-https://slidesgo.com/theme/driving-center#search-car&position-4&results-18
+-Slide Template Used [Link](https://slidesgo.com/theme/driving-center#search-car&position-4&results-18)
+

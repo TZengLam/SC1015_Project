@@ -62,7 +62,7 @@ For cars that do not deivate much from the price of a typical car like Honda and
 ## References
 -Web Scrapping Tool [Link](https://webscraper.io/)
 
--Linear Regression Module [Link](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+-Linear Regression Module [Link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 -Random Forest Regression Module [Link](https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor)
 

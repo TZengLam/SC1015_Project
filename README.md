@@ -4,9 +4,9 @@
 This is a SC1015 Mini Project which focuses on the relationship between car brand and price. There are many factors that can affect the price of car but one interesting factor is the brand of the car. It was important to determine if customers are spending money on the brand itself or acquiring the specifications of the car. From a car manufacturing brand perspective, it also shows how they value their uniqueness in comparison to other brands.
 
 ## Contributors
-Ong Jun An- Data cleaning, EDA, Machine Learning, Presentation
+Ong Jun An - Data cleaning, EDA, Machine Learning, Presentation
 
-Tham Zeng Lam- Problem formulation, EDA, Data Analysis, Presentation
+Tham Zeng Lam - Problem formulation, EDA, Data Analysis, Presentation
 
 ## Problem Definition
 1) How can we predict the price of a car?

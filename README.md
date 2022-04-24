@@ -17,7 +17,7 @@ Webscraped from: https://www.sgcarmart.com/main/index.php
 ## File Description
 .pptx - Powerpoint slides for presentation
 
-CleaningDataSet.ipynb - Cleaning Raw Dataset [Dataset](./CleaningDataSet.ipynb)
+CleaningDataSet.ipynb - Cleaning Raw Dataset [Dataset](./SC1015_Project/Cleaning Data/CleaningDataSet.ipynb)
 
 Assignment.ipynb - Main Notebook 
 

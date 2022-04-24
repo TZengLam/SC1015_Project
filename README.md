@@ -18,11 +18,10 @@ Webscraped from: [SgCarMart Link](https://www.sgcarmart.com/main/index.php)
 Tool used: [Web Scraper](https://webscraper.io/)
 ## File Description
 
-Cleaning Data Folder:
 
-    (Error Free) sgcarmart.csv - Raw dataset [Go to File](../main/Cleaning%20Data/(Error%20Free)%20sgcarmart.csv)
+(Error Free) sgcarmart.csv - Raw dataset [Go to File](../main/Cleaning%20Data/(Error%20Free)%20sgcarmart.csv)
 
-    CleaningDataSet.ipynb - Cleaning Raw Dataset [Go to File](../main/Cleaning%20Data/CleaningDataSet.ipynb)
+CleaningDataSet.ipynb - Cleaning Raw Dataset [Go to File](../main/Cleaning%20Data/CleaningDataSet.ipynb)
 
 Clean sgcarmart dataset as of 24MAR2022.csv - Cleaned dataset [Go to File](../main/Clean%20sgcarmart%20dataset%20as%20of%2024MAR2022.csv)
 

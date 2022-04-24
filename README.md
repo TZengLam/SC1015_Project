@@ -58,10 +58,20 @@ For cars that do not deivate much from the price of a typical car like Honda and
 -ANOVA statistical test with categorical variables
 
 ## References
+-Linear Regression Module
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor
-https://slidesgo.com/theme/driving-center#search-car&position-4&results-18
+
+-Random Forest Regression Module
+https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor
+
+-Information on Linear Regression
 https://www.scribbr.com/statistics/multiple-linear-regression/
+
+-Information on Random Forest Regression
 https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/ 
+
+-Information on One-Way ANOVA Test
 https://www.scribbr.com/statistics/one-way-anova/
 
+-Slide Template Used
+https://slidesgo.com/theme/driving-center#search-car&position-4&results-18

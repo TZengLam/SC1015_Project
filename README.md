@@ -25,7 +25,7 @@ Data Description.txt - Column Data Description [Go to File](../main/Data%20Descr
 
 (Error Free) sgcarmart.csv - Raw dataset [Go to File](../main/Cleaning%20Data/(Error%20Free)%20sgcarmart.csv)
 
-Clean sgcarmart dataset as of 24MAR2022.csv - Cleaned dataset
+Clean sgcarmart dataset as of 24MAR2022.csv - Cleaned dataset [Go to File](../main/Clean%20sgcarmart%20dataset%20as%20of%2024MAR2022.csv)
 
 ## Models Used
 1) Linear Regression

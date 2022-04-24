@@ -21,7 +21,7 @@ Webscraped from: https://www.sgcarmart.com/main/index.php
 
 .ipynb -Main notebook 
 
-.txt -Column data description
+Data Description.txt -Column data description
 
 .csv -Raw dataset
 

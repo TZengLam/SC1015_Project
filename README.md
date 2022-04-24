@@ -21,7 +21,7 @@ CleaningDataSet.ipynb - Cleaning Raw Dataset [Go to File](../main/Cleaning%20Dat
 
 Assignment.ipynb - Main Notebook [Go to File](../main/Assignment.ipynb)
 
-Data Description.txt - Column Data Description
+Data Description.txt - Column Data Description [Go to File](../main/Data%20Description.txt)
 
 (Error Free) sgcarmart.csv - Raw dataset
 

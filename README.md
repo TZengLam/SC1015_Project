@@ -17,17 +17,18 @@ Webscraped from: [SgCarMart Link](https://www.sgcarmart.com/main/index.php)
 
 Tool used: [Web Scraper](https://webscraper.io/)
 ## File Description
-SC1015_Presentation.pptx - Powerpoint slides for presentation [Go to File](../main/SC1015_Presentation.pptx)
-
-CleaningDataSet.ipynb - Cleaning Raw Dataset [Go to File](../main/Cleaning%20Data/CleaningDataSet.ipynb)
-
-Assignment.ipynb - Main Notebook [Go to File](../main/Assignment.ipynb)
-
-Data Description.txt - Column Data Description [Go to File](../main/Data%20Description.txt)
 
 (Error Free) sgcarmart.csv - Raw dataset [Go to File](../main/Cleaning%20Data/(Error%20Free)%20sgcarmart.csv)
 
+CleaningDataSet.ipynb - Cleaning Raw Dataset [Go to File](../main/Cleaning%20Data/CleaningDataSet.ipynb)
+
 Clean sgcarmart dataset as of 24MAR2022.csv - Cleaned dataset [Go to File](../main/Clean%20sgcarmart%20dataset%20as%20of%2024MAR2022.csv)
+
+Data Description.txt - Column Data Description [Go to File](../main/Data%20Description.txt)
+
+Assignment.ipynb - Main Notebook [Go to File](../main/Assignment.ipynb)
+
+SC1015_Presentation.pptx - Powerpoint slides for presentation [Go to File](../main/SC1015_Presentation.pptx)
 
 ## Models Used
 1) Linear Regression

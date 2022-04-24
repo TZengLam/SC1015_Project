@@ -1,0 +1,20 @@
+CarID : ID of each Car (You can check the car listing through https://www.sgcarmart.com/used_cars/info.php?ID=?)
+CarName : Name of each Car
+CarAge : Age of Car in days (Measured from Reg Date)
+Price : Price of Car in SGD
+Depreciation : Amount the owner loses on the value of the Car per year in SGD
+Mileage : Number of kilometres travelled
+Road Tax : Amount of road tax per year in SGD
+Dereg Value : (Deregistration Value) Amount one will get back from the government upon deregistering the vehicle for use in Singapore in SGD
+COE : Original value of the COE when the Car is first registered in SGD
+Engine Cap : Total volume in engine in cc
+Curb Weight : Weight (mass) of the Car when not loaded with either passengers or cargo in kg
+Type of Vehicle : Vehicle Category
+Reg Date : Date of Car registration (YYYY/MM/DD)
+COE Expiry Date : Date when COE expires (YYYY/MM/DD)
+COE Duration : Duration of COE in days (Calculated from COE Expiry Date)
+Transmission : Either Automatic or Manual
+OMV : (Open Market Value) Value of Car when first registered.
+ARF : (Additional Registration Fee) Value of tax imposed upon registration of a vehicle. It is calculated based on a percentage of the Open Market Value (OMV) of the vehicle.
+Power : Power of Car in kW
+No of Owners : The number of past owners for this vehicle (Including the current)
